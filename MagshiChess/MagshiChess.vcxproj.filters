@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Piece.cpp" />
+    <ClCompile Include="PipeInputOperations.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="Rook.cpp" />
+    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Pawn.cpp" />
+    <ClCompile Include="Bishop.cpp" />
+    <ClCompile Include="Queen.cpp" />
+    <ClCompile Include="King.cpp" />
+    <ClCompile Include="Knight.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Piece.h" />
+    <ClInclude Include="Pipe.h" />
+    <ClInclude Include="PipeInputOperations.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="Rook.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="Pawn.h" />
+    <ClInclude Include="Bishop.h" />
+    <ClInclude Include="Queen.h" />
+    <ClInclude Include="King.h" />
+    <ClInclude Include="Knight.h" />
+  </ItemGroup>
+</Project>
